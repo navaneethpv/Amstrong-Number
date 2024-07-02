@@ -19,6 +19,6 @@ void main()
     }
     else
     {
-        printf("\n The number %d is not amstrong!");
+        printf("\n The number %d is not amstrong!",og);
     }
 }
